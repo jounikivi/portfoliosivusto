@@ -1,4 +1,4 @@
-body {
+body{
   background-color: #e5e5e5;
 }
 
@@ -16,7 +16,7 @@ body {
 
 .hero {
   background-color: #1f2428;
-  height: 70vh;
+  height: 50vh;
   color: #fff;
 }
 
@@ -71,4 +71,13 @@ body {
 
 .project--thumbnail{
   width: 100%;
+}
+
+.project-body{
+  background-color: #fff;
+}
+
+.skills-container{
+  width: 600px;
+  margin: auto;
 }
