@@ -2,6 +2,18 @@ body{
   background-color: #e5e5e5;
 }
 
+.section1{
+  background-color: #fff;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.section2{
+  background-color: #e5e5e5;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
 .navigation-bar {
   background-color: #354955;
   height: 50px;
@@ -80,4 +92,9 @@ body{
 .skills-container{
   width: 600px;
   margin: auto;
+}
+
+.skill-wrapper{
+  margin: 2em;
+  margin-bottom: 2em;
 }
